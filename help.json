@@ -1,0 +1,10 @@
+{
+    "commands":{
+        "❓help":{
+            "description": "The help commands lists you a list of all of the available commands and their description"
+        },
+        "🏓 ping":{
+            "description": "Pings the bot and returns the his latency"
+        }
+    }
+}
