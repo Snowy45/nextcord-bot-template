@@ -1,5 +1,4 @@
 # Nextcord Bot Template
-[![Become a part of the community](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sreZ6Xhpz8)
 
 The nextcord bot template is a basic discord bot template designed to
 help you get started with making a basic bot, this is a very simple code
